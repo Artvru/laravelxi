@@ -5,7 +5,7 @@
             <tr>
                 <th>#</th>
                 <th>ชื่อสกุล</th>
-                <th>อีเมล์</th>
+                <th>email</th>
             </tr>
         </thead>
         <tbody>
